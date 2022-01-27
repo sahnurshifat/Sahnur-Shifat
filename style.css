@@ -86,5 +86,15 @@ h5{
 
 /* mediaqueryformobile */
 @media only screen and (max-width:688px){
-    
+   .intro-details{
+       display: flex;
+       flex-direction: column;
+   }
+   .contact{
+       display: flex;
+       flex-direction: column;
+   }
+   .container{
+       margin-bottom: 10px;
+   }
 }
