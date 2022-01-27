@@ -1,0 +1,43 @@
+body{
+    margin: 5px 10px 0 10px;
+    background-color:  #FDEDEC ;
+}
+
+.intro-details{
+    display: flex;
+    justify-content: space-around;
+}
+
+h1{
+    font-family:  'Dongle';
+    font-size: 70px;
+}
+
+span{
+    font-family: 'Dancing Script';
+    font-size: 50px;
+}
+
+.button{
+    text-decoration: none;
+    display: inline-block;
+    color: white;
+    font-size: 15px;
+    font-weight: 800;
+    margin-top: 15px;
+    margin-bottom: 25px;
+    padding: 10px 30px;
+    border-radius: 5px;
+    background-color: #CB4335;
+}
+
+.intro-img>img{
+    height: 350px;
+    width: 350px;
+}
+/* 2nd section started */
+h2{
+    font-size: 40px;
+    font-weight: 600;
+    text-align: center;
+}
