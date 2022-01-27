@@ -1,6 +1,6 @@
 body{
     margin: 5px 10px 0 10px;
-    background-color:  #FDEDEC ;
+    background-color:  #D0ECE7  ;
 }
 
 .intro-details{
@@ -44,7 +44,47 @@ p{
 }
 
 .container{
-    background-color: #F7B3B3;
+    background-color:  #E8F8F5;
     border-radius: 5px;
     padding: 20px;
+}
+h3{
+    margin: 5px 0 5px 0;
+}
+h4{
+    font-size: 35px;
+    text-align: center;
+}
+.socials{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+
+.fb{
+
+    color: #0070F7;
+}
+.ln{
+    color: #286c99 ;
+}
+.ig{
+    color: #6e1268;
+}
+.tw{
+    color: #3ea2e6 ;
+}
+footer{
+    background-color: #1F618D ;
+    color: black;
+    text-align: center;
+}
+h5{
+    font-family: 'poppins';
+    font-size: 15px;
+}
+
+/* mediaqueryformobile */
+@media only screen and (max-width:688px){
+    
 }
